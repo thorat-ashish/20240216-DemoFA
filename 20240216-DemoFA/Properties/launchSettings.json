@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_20240216_DemoFA": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7233",
+      "launchBrowser": false
+    }
+  }
+}
